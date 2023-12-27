@@ -1,16 +1,14 @@
-# smart_money_concept
+# SmartMoneyApp
 
-A new Flutter project.
+**SmartMoneyApp** - это мобильное приложение для обучения торговле на финансовых рынках. Приложение предоставляет структурированные уроки, основанные на концепции Smart Money, стратегиях торговли и других важных аспектах финансовых рынков.
 
-## Getting Started
+## Основные функции
 
-This project is a starting point for a Flutter application.
+- **Модули обучения:** Построены в виде уровней с каруселью, представляющей информацию в удобной форме.
+- **Визуализация контента:** Используется виджет CarouselSlider для интерактивного отображения информации.
+- **Прогресс-отслеживание:** Пользователи могут следить за своим прогрессом в обучении.
 
-A few resources to get you started if this is your first Flutter project:
+## Технологии
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter (Dart):** Используется для разработки кросс-платформенного мобильного приложения.
+- **CarouselSlider:** Виджет Flutter для создания каруселей.
